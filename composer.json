@@ -21,7 +21,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Lanizz\\Phphelper\\": "src/"
+      "Lanizz\\PHPHelper\\": "src/"
     }
   },
   "autoload-dev": {
@@ -29,5 +29,6 @@
       "Tests\\": "tests/"
     }
   },
-  "minimum-stability": "dev"
+  "minimum-stability": "dev",
+  "prefer-stable": true
 }

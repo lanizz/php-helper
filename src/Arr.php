@@ -6,7 +6,7 @@
  * Date: 2017/8/7
  * Time: 17:34
  */
-namespace Lanizz\PhpHelper;
+namespace Lanizz\PHPHelper;
 
 class Arr
 {
